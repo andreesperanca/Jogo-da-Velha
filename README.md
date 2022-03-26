@@ -30,7 +30,6 @@
 - [x] Placar 
 - [x] Jogar sem nome de jogadores
 - [ ] Mostrar no display de qual jogador é a vez
-- [ ] Guardar resultados no DATA ROOM
 - [ ] Dar nome a apenas um jogador
 - [ ] Inverter ordem de quem joga para o perdedor no final de cada partida
 
