@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jogo da Velha</string>
+    <string name="jogar_novamente">Jogar Novamente</string>
+    <string name="Winner">O JOGADOR(A) %1$s VENCEU!</string>
+    <string name="player_name">Jogador 1</string>
+    <string name="jogar">JOGAR</string>
+    <string name="deu_velha">DEU VELHA!</string>
+    <string name="player_name2">Jogador 2</string>
+</resources>
