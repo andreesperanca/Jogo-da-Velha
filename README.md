@@ -7,15 +7,32 @@
   
 </h1>
 
+
+<h1 align="center">
+  
+   <img style="border-radius: 50%;" src="./assets/gifGame.gif" width="250px;" alt=""/>
+  
+</h1>
+
+
+
+<h4 align="center"> 
+	🚧   Em construção...  🚧
+</h4>
+
 ### Sobre :book:
  Jogo feito para treinar e resolver desafios envolvendo lógica de programação.
  
  ### Funcionalidades
 
+- [x] Jogo
 - [x] Dar nome aos jogadores
 - [x] Placar 
-- [ ] Guardar placar no DATA ROOM
+- [x] Jogar sem nome de jogadores
+- [ ] Mostrar no display de qual jogador é a vez
+- [ ] Guardar resultados no DATA ROOM
 - [ ] Dar nome a apenas um jogador
+- [ ] Inverter ordem de quem joga para o perdedor no final de cada partida
 
 ### Autor
 
