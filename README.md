@@ -23,11 +23,12 @@
 ### Sobre :book:
  Jogo feito para treinar e resolver desafios envolvendo lógica de programação.
  
- ### 🛠 Tecnologias
+ ### Tecnologias :rocket:
 
-Kotlin
+ Kotlin
+ Android Studio
  
- ### Funcionalidades
+ ### Funcionalidades 🛠
 
 - [x] Jogo
 - [x] Dar nome aos jogadores
