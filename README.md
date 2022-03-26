@@ -23,6 +23,10 @@
 ### Sobre :book:
  Jogo feito para treinar e resolver desafios envolvendo lógica de programação.
  
+ ### 🛠 Tecnologias
+
+Kotlin
+ 
  ### Funcionalidades
 
 - [x] Jogo
