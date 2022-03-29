@@ -25,8 +25,8 @@
  
  ### Tecnologias :rocket:
 
- Kotlin e
- Android Studio
+ - Kotlin 
+ - Android Studio
  
  ### Funcionalidades 🛠
 
